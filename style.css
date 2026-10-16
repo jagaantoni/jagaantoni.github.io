@@ -1,0 +1,34 @@
+p{
+
+color:red;
+font-weight:bold;
+font-size: 60px;
+font-family:25px;
+}
+
+
+
+div{width: 800px;
+padding: 20px;
+margin:auto;
+background-color:yellow;
+
+}
+.text{
+color: aqua;
+    font-size: 13pt;
+font-weight: normal;
+}
+
+
+.tytul{
+font-size: 67pt;
+font-weight: bold;
+
+
+
+}
+
+
+image{image-size: 67pt;
+}
